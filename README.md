@@ -42,7 +42,7 @@
     
 - [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ɪᴅ](https://my.telegram.org/auth)    
 - [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ʜᴀꜱʜ](https://my.telegram.org/auth)
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/SessionGeneratorBot)   
+- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/Nobita_string_bot)   
 </details>
 
 <details>
@@ -51,7 +51,7 @@
     
 > ʏᴏᴜ'ʟʟ ɴᴇᴇᴅ ᴀ ᴀᴘɪ_ɪᴅ & ᴀᴘɪ_ʜᴀsʜ ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ. 
 > ᴀʟᴡᴀʏs ʀᴇᴍᴇʙᴇʀ ᴛᴏ ᴜsᴇ ɢᴏᴏᴅ ᴀᴘɪ ᴄᴏᴍʙᴏ ᴇʟsᴇ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴄᴏᴜʟᴅ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ.
-> [Gernate bot session from here](https://replit.com/@Alcoholic-Krish/NYHNA#main.py)
+> [Gernate bot session from here](https://t.me/Nobita_string_bot)
     
 </details>
 
@@ -62,7 +62,7 @@
 > ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ʀᴇQᴜɪʀᴇᴅ
  - [Gernate bot session from here](https://replit.com/@Alcoholic-Krish/NYHNA#main.py)  
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Nyhna/Karpit-Spam-bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/NOBITAXDD/Karpit-Spam-bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
   
 </details>
 
@@ -76,7 +76,7 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- (https://t.me/DARK_LOVEROP)
+- (https://t.me/REPOKIDUNIYA)
 
 </details>
 
@@ -85,9 +85,9 @@
 <br>
 
 # ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/KARPIT_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="**https://t.me/The_Soulmates_Of_Group"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/KARPIT_SUPPORT"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/REPOKIDUNIYA"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="**https://t.me/REPOKIDUNIYA"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/REPOKIDUNIYA"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 
 </details>
