@@ -1002,107 +1002,107 @@ async def start(event):
     if event.sender_id in SMEX_USERS:
      await idk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await ydk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await wdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await hdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await sdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await adk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await bdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await cdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await edk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await hdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await ddk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await vkk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await kkk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await lkk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\n𝐴𝐿𝐼𝐸𝑁 𝑋 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM  𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await mkk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await sid.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await shy.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await aan.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await ake.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await eel.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await khu.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await shi.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await yaa.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await dav.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await raj.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nKARPIT SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )
      await put.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ KARPIT SPAM BOT IS  𝐻𝐸𝑅𝐸𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\n𝐴𝐿𝐼𝐸𝑁 𝑋 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑽𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
                               )        
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
@@ -2044,11 +2044,11 @@ async def help(e):
     
         
 text = """
-𝓑𝓐𝓝 𝓖𝓨𝓐 𝓑𝓐𝓝 𝓖𝓨𝓐 𝓚𝓐𝓡𝓟𝓘𝓣 𝓢𝓟𝓐𝓜 𝓑𝓞𝓣 𝓑𝓐𝓝 𝓖𝓨𝓐 """
+BAN GAYA RE BABA NOBITA SPAM OP"""
 
 print(text)
 print("")
-print("𝓚𝓐𝓡𝓟𝓘𝓣 𝓢𝓟𝓐𝓜 𝓑𝓞𝓣 𝓑𝓐𝓝 𝓖𝓨𝓐 𝓨𝓞")
+print("𝙽𝙾𝙱𝙸𝚃𝙰 𝙾𝙿 𝙱𝙾𝙻𝚃𝙴 𝚂𝙿𝙰𝙼 𝙸𝚂 𝚁𝙴𝙰𝙳𝚈 🔥")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
