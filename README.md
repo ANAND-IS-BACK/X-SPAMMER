@@ -1,6 +1,6 @@
-<h1 align="center"><b>😈 𝓚𝓐𝓡𝓟𝓘𝓣 𝓢𝓟𝓐𝓜 𝓑𝓞𝓣 😈</b></h1>
+<h1 align="center"><b>🤤☠️𝙰𝙱 𝚂𝙿𝙰𝙼 𝙷𝙾𝙶𝙰 𝚃𝙾 𝙽𝙾𝙱𝙸𝚃𝙰 𝙺𝙰 𝙷𝙾𝙶𝙰 🔥❤️</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐔𝐒𝐄𝐑𝐁𝐎𝐓𝐒 𝐌𝐀𝐃𝐄 ʙʏ ᴋʀɪꜱʜɴᴀ ꜰᴏʀ ʜᴇᴀᴠʏ ꜱᴘᴀᴍᴍᴇʀꜱ </h4>
+<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐔𝐒𝐄𝐑𝐁𝐎𝐓𝐒 𝐌𝐀𝐃𝐄 ʙʏ 𝙽𝙾𝙱𝙸𝚃𝙰 𝚇𝙳 ꜰᴏʀ ʜᴇᴀᴠʏ ꜱᴘᴀᴍᴍᴇʀꜱ </h4>
 
 <p align="center"><a href="https://t.me/Nyhna"><img src="https://telegra.ph/file/e14f8fa788c7c752efec3.jpg" width="400"></a></p>
 
