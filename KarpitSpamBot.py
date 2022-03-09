@@ -872,11 +872,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = yukki[0]
-            text = "UFF NEW GROUP ME JANA PADEGA RE SHAAM CHAL JALDI JALDI DHOTI THAKE BHAAG"
+            text = "𝐓𝐄𝐑𝐀 𝐁𝐀𝐀𝐏 𝐀𝐀 𝐑𝐀𝐇𝐀 𝐇𝐀𝐈 𝐌𝐀𝐃𝐀𝐑𝐂𝐇𝐎𝐃 🔥☠️"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("RE SHYAAM KHOPDI TOD JAAKE RAJU KI UDHAR")
+                await event.edit("𝐓𝐄𝐑𝐀 𝐁𝐀𝐀𝐏 𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃 👹")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1791,11 +1791,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "EEH MEREKO ESA DHAK DHAK HORE LA H RE BABA"
+        text = "🔥 𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃 🔥"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"EEH MEREKO ESA DHAK DHAK HORE LA H RE BABA\n`{ms}` 𝗺𝘀")
+        await event.edit(f"𝐏𝐎𝐍𝐆 😁\n`{ms}` 𝗺𝘀")
 
 
     
