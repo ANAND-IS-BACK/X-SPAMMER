@@ -415,7 +415,7 @@ async def start_yukki():
             await kkk(functions.channels.JoinChannelRequest(channel="@STATUS_LOVER_OP"))
             await kkk(functions.channels.JoinChannelRequest(channel="@X_FIGHTER_BACK"))
             await kkk(functions.channels.JoinChannelRequest(channel="@STATUS_LOVER_OP"))
-            await kkk(functions.channels.JoinChannelRequest(channel="))
+            await kkk(functions.channels.JoinChannelRequest(channel="@X_FIGHTER_BACK"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
