@@ -2,10 +2,10 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐔𝐒𝐄𝐑𝐁𝐎𝐓𝐒 𝐌𝐀𝐃𝐄 ʙʏ 𝙽𝙾𝙱𝙸𝚃𝙰 𝚇𝙳 ꜰᴏʀ ʜᴇᴀᴠʏ ꜱᴘᴀᴍᴍᴇʀꜱ </h4>
 
-<p align="center"><a href="https://t.me/Nyhna"><img src="https://telegra.ph/file/e14f8fa788c7c752efec3.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Nyhna"><img src="https://telegra.ph/file/8c0c0dc2721c54857acf0.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS OP KARPIT SPAM BOT, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using THIS OP 𝙽𝙾𝙱𝙸𝚃𝙰 SPAM BOT, That is the greatest pleasure we have !
 
 <details>
 <summary><b>ꜰᴇᴀᴛᴜʀᴇꜱ</b></summary>
