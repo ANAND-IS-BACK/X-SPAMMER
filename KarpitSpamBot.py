@@ -875,7 +875,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐓𝐄𝐑𝐀 𝐁𝐀𝐀 👹")
+                await event.edit("𝐓𝐄𝐑𝐀 𝐁𝐀𝐀𝐏 𝐌𝐫.𝐗 👹")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1001,107 +1001,107 @@ async def start(event):
     if event.sender_id in SMEX_USERS:
      await idk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await ydk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                               
                               )
      await wdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await hdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await sdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await adk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBIT SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await bdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await cdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                              
                               )
      await edk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await hdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await ddk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await vkk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await kkk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await lkk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM  𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await mkk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await sid.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await shy.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await aan.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await ake.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await eel.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await khu.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await shi.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await yaa.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await dav.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await raj.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑉𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )
      await put.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption="✯ NOBITA SPAM BOT IS  𝐻𝐸𝑅𝐸𝐸 ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡\nNOBITA SPAM 𝑽𝐸𝑅𝑆𝐼𝑂𝑁 :- 0.1\n 𝐶𝑅𝐸𝐴𝑇𝐸 𝑌𝑂𝑈𝑅 𝑂𝑊𝑁 𝐵𝑂𝑇 𝐶𝐿𝐼𝐶𝐾 𝐻𝐸𝑅𝐸 [KARPIT SPAM](https://github.com/Nyhna/KARPIT-SPAM-BOT)...👻\n═══════════════════\n\n"                                
+                                  caption="✯ MR.X SPAMMER IS HERE ✯\n\n═══════════════════\n ME ZINDA HU RE BABA...⚡"                                
                               )        
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
@@ -1761,36 +1761,36 @@ async def _(e):
     
        
 
-@idk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@ydk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@wdk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@hdk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@sdk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@adk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@bdk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@cdk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@edk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@ddk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@vkk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@kkk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@lkk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@mkk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@sid.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@shy.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@aan.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@ake.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@eel.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@khu.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@shi.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@yaa.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@dav.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@raj.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
-@put.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
+@idk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@ydk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@wdk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@hdk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@sdk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@adk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@bdk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@cdk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@edk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@ddk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@vkk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@kkk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@lkk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@mkk.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@sid.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@shy.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@aan.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@ake.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@eel.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@khu.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@shi.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@yaa.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@dav.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@raj.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
+@put.on(events.NewMessage(incoming=True, pattern=r"\.xxx"))
 
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "🔥 𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃 🔥"
+        text = "🔥 𝐘𝐎𝐔𝐑 𝐃𝐀𝐃 𝐌𝐑.𝐗 🔥"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
@@ -2043,11 +2043,11 @@ async def help(e):
     
         
 text = """
-BAN GAYA RE BABA NOBITA SPAM OP"""
+BAN GAYA RE BABA MR.X  SPAM BOT"""
 
 print(text)
 print("")
-print("𝙽𝙾𝙱𝙸𝚃𝙰 𝙾𝙿 𝙱𝙾𝙻𝚃𝙴 𝚂𝙿𝙰𝙼 𝙸𝚂 𝚁𝙴𝙰𝙳𝚈 🔥")
+print("MR.X SPAM BOT IS READY TO FIRE🔥")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
